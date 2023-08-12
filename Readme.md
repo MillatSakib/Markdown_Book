@@ -44,6 +44,9 @@ This is a pragraph
 This is another paragraph
 
 [comment]: <> (The syntax for write a terminal command are given bellow)
+```
+sudo apt get install
+```
 
 
 ```sudo apt get install```
